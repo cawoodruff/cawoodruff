@@ -121,7 +121,7 @@ I'm always open to discussing new projects, cloud architecture challenges, or op
 
 <div align="center" style="padding-top: 10px;">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-1e40af?style=for-the-badge&logo=linkedin&logoColor=f59e0b)](https://linkedin.com/in/charleswoodruff)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-1e40af?style=for-the-badge&logo=linkedin&logoColor=f59e0b)](https://www.linkedin.com/in/charleswoodruff1/)
 [![Email](https://img.shields.io/badge/Send_An_Email-f59e0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charles.woodruff@example.com)
 
 </div>
