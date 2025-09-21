@@ -95,7 +95,6 @@ I am a results-driven **DevOps Engineer** and **Cloud Architect** dedicated to b
 ![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-f59e0b?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Certified Kubernetes Administrator (CKA)](https://img.shields.io/badge/Kubernetes_CKA-1e40af?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![HashiCorp Terraform Associate](https://img.shields.io/badge/Terraform_Associate-f59e0b?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker Certified Associate](https://img.shields.io/badge/Docker_Certified-1e40af?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
