@@ -21,7 +21,7 @@
 
 ## 👋 About Me
 
-I am a results-driven **DevOps Engineer** and **Cloud Architect** dedicated to building and maintaining robust, scalable, and efficient infrastructure. With deep expertise in **Kubernetes**, **Infrastructure as Code (IaC)**, and **CI/CD automation**, I empower organizations to achieve faster release cycles, improved reliability, and optimized cloud performance. 
+I am a results-driven **DevOps Engineer** and **Cloud Architect** dedicated to building and maintaining robust, scalable, and efficient infrastructure. With expertise in **Kubernetes**, **Infrastructure as Code (IaC)**, and **CI/CD automation**, I empower organizations to achieve faster release cycles, improved reliability, and optimized cloud performance. 
 
 ---
 
